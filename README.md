@@ -1,0 +1,2 @@
+# MagicsoftCompareFolder
+Compare folder test 
